@@ -1,6 +1,6 @@
 {
     "name": "v-utils",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Different utilites for browser JS",
     "repository": {
         "type": "git",

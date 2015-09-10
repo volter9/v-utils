@@ -1,18 +1,19 @@
 {
-  "name": "v-utils",
-  "version": "0.1.0",
-  "description": "Different utilites for browser JS",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "dom",
-    "utils",
-    "html",
-    "object",
-    "array",
-    "function"
-  ],
-  "author": "volter9",
-  "license": "MIT"
+    "name": "v-utils",
+    "version": "0.1.0",
+    "description": "Different utilites for browser JS",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/username/repository.git"
+    }
+    "keywords": [
+        "dom",
+        "utils",
+        "html",
+        "object",
+        "array",
+        "function"
+    ],
+    "author": "volter9",
+    "license": "MIT"
 }

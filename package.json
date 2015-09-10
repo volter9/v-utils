@@ -1,10 +1,10 @@
 {
     "name": "v-utils",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Different utilites for browser JS",
     "repository": {
         "type": "git",
-        "url": "git://github.com/username/repository.git"
+        "url": "git://github.com/volter9/v-utils.git"
     },
     "keywords": [
         "dom",
